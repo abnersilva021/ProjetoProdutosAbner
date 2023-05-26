@@ -66,7 +66,7 @@ public class FPrincipal extends javax.swing.JFrame {
 
         pnBack.setBackground(new java.awt.Color(102, 102, 102));
 
-        jPanel2.setBackground(new java.awt.Color(153, 153, 153));
+        jPanel2.setBackground(new java.awt.Color(255, 153, 51));
 
         lbAddP.setFont(new java.awt.Font("Cambria Math", 1, 14)); // NOI18N
         lbAddP.setText("Adicionar Produto");
@@ -143,7 +143,7 @@ public class FPrincipal extends javax.swing.JFrame {
                 .addContainerGap())
         );
 
-        jPanel3.setBackground(new java.awt.Color(153, 153, 153));
+        jPanel3.setBackground(new java.awt.Color(102, 0, 102));
 
         lbPesquisa.setFont(new java.awt.Font("Cambria Math", 1, 14)); // NOI18N
         lbPesquisa.setText("Pesquisar Produto");
@@ -205,7 +205,7 @@ public class FPrincipal extends javax.swing.JFrame {
                 .addContainerGap())
         );
 
-        jPanel4.setBackground(new java.awt.Color(153, 153, 153));
+        jPanel4.setBackground(new java.awt.Color(51, 255, 204));
 
         lbLista.setFont(new java.awt.Font("Cambria Math", 1, 14)); // NOI18N
         lbLista.setText("Listagem de produtos");
@@ -263,7 +263,7 @@ public class FPrincipal extends javax.swing.JFrame {
                 .addContainerGap(22, Short.MAX_VALUE))
         );
 
-        jPanel5.setBackground(new java.awt.Color(153, 153, 153));
+        jPanel5.setBackground(new java.awt.Color(0, 0, 255));
 
         lbEditDelet.setFont(new java.awt.Font("Cambria Math", 1, 14)); // NOI18N
         lbEditDelet.setText("Editar / Excluir");
